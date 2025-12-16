@@ -1,4 +1,6 @@
-# 🗣️ Talk with your DB
+# 🗣️ Talk with your DB 
+
+[Link](https://talk-to-your-sql-db.streamlit.app/)
 
 A powerful Streamlit application that lets you interact with your SQLite databases using natural language queries. No SQL knowledge required!
 
